@@ -1,5 +1,5 @@
 
-// Here I am sorting an array by taking inputs from User
+// Selection Sort: Here I am sorting an array by taking inputs from User
 
 import java.util.Scanner;
 class SelectionSort{

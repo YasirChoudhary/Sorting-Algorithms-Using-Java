@@ -1,3 +1,6 @@
+
+// Bubble Sort : Taking inputs from the user and then sort.
+
 import java.util.Scanner;
 class BubbleSort{
 	static Scanner sc = new Scanner(System.in);
@@ -36,7 +39,7 @@ class BubbleSort{
 		for(int i=0; i<=arr.length-2; i++){
 		
 			// Inner loop is for Maintaing array and Swapping the array.
-			for (int j=0; j<=arr.length-2; j++){
+			for (int j=0; j<=arr.length-2-i; j++){
 				if(arr[j]>arr[j+1]){
 					int temp = arr[j];
 					arr[j]=arr[j+1];
