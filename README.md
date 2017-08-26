@@ -1,2 +1,2 @@
 # Sorting-Algorithms-Using-Java
-Sorting Algorithms Usins Java Languague
+Sorting Algorithms Using Java Programming Languague
